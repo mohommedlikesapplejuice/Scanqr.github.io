@@ -18,7 +18,7 @@ body{
     width: 320px;
     height: 499px;
     background-color: #fff;
-    margin: 157px auto 0px auto;
+    margin: 187px auto 0px auto;
     border-radius: 20px;
 }
 
@@ -49,4 +49,5 @@ img{
     font-size: 11px; 
     text-align: center; 
 }
+
     .attribution a { color: hsl(228, 45%, 44%); }
